@@ -5,6 +5,7 @@ __pycache__/
 # Environments
 .venv
 .env
+.streamlit/secrets.toml
 
 # Node
 node_modules
@@ -14,3 +15,6 @@ node_modules
 
 # Playwriter artifacts
 tmp/
+
+# Specstory keeps the history of codex prompts
+.specstory

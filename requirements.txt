@@ -1,0 +1,6 @@
+streamlit
+Authlib>=1.3.2
+supabase
+langchain
+langchain-openai
+langsmith
